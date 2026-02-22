@@ -1,0 +1,27 @@
+body {
+  background-color: #FEEAE9;
+}
+h1 
+{ border: 2px solid #333;
+  padding: 10px;
+  border-radius: 8px;
+  color: #C0428A;
+  text-align: center;
+}
+ p 
+  {
+  font-family: Playfair Display;
+  font-size: 20px;
+  color: #000000; /* noir */
+}
+a {
+  color: blue;
+  text-decoration: none; /* Enlever le soulignement */
+}
+a:hover { /* Style du lien au survol de la souris */
+  color: blue;
+  text-decoration: underline;
+}
+
+
+
